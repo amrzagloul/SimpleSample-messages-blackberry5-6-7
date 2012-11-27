@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+MIDlet-Jar-Size: 229498
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: ExamplePush.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_networkapi
+RIM-COD-URL-1: ExamplePush-1.cod
+RIM-COD-SHA1-1: 1f cb 12 de d3 04 30 3b 00 75 c1 e9 76 f4 0d e5 18 e8 56 2f
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 14440
+RIM-COD-Module-Name: ExamplePush
+MIDlet-Name: ExamplePush
+RIM-COD-Size: 61244
+RIM-COD-Creation-Time: 1352729338
+MIDlet-1: ,,
+RIM-COD-URL: ExamplePush.cod
+RIM-COD-SHA1: 4e 70 67 d0 74 da 36 7d 6f 0f 33 86 b6 9b 6d 85 45 52 55 25
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
